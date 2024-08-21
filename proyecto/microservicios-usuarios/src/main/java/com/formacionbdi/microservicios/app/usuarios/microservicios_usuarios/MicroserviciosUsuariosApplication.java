@@ -3,6 +3,8 @@ package com.formacionbdi.microservicios.app.usuarios.microservicios_usuarios;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+@
+
 @SpringBootApplication
 public class MicroserviciosUsuariosApplication {
 
